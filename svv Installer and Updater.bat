@@ -6,7 +6,7 @@ for /f %%i in ('echo prompt $E^| cmd') do set "ESC=%%i"
 echo %ESC%[35m     _________  _____  __
 echo %ESC%[35m    /  ___/\  \/ /\  \/ /
 echo %ESC%[35m    \___ \  \   /  \   /
-echo %ESC%[35m   /____  >>  \_/    \_/
+echo %ESC%[35m   /____  /  \_/    \_/
 echo %ESC%[35m        \/
 echo.
 
